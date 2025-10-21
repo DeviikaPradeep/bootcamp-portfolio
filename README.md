@@ -61,6 +61,27 @@ Each week’s submission includes:
 ![Week 5 Screenshot](image5.png)  
 [📄 Download Week 5 Report](week5.docx)
 
+## 🗓️ Week 6 — Python  
+
+**Topics to be covered:**  
+- Python programming fundamentals  
+- Data manipulation using **Pandas** and **NumPy**  
+- Data visualization using **Matplotlib** and **Seaborn**  
+
+**Evidence:**  
+
+
+---
+
+## 🧠 Skills and Tools Covered Across Bootcamp  
+
+- **Data Analysis & Reporting:** Excel (pivot tables, charts, dashboards, formulas)  
+- **Programming & Querying:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Data Visualization:** Power BI, Tableau, Excel dashboards  
+- **Database Management:** Relational & non-relational databases, Azure Fundamentals  
+- **Cloud Computing:** Microsoft Azure, cloud data storage and processing  
+- **Other Tools:** GitHub, Jupyter Notebook  
+
 ---
 
 ## 🧠 Notes  
