@@ -61,9 +61,9 @@ Each week’s submission includes:
 ![Week 5 Screenshot](image5.png)  
 [📄 Download Week 5 Report](week5.docx)
 
-## 🗓️ Week 6 — Python  
+## 🗓️ Week 6 — Python (will be adding soon) 
 
-**Topics to be covered:**  
+**Topics covered:**  
 - Python programming fundamentals  
 - Data manipulation using **Pandas** and **NumPy**  
 - Data visualization using **Matplotlib** and **Seaborn**  
