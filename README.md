@@ -56,7 +56,6 @@ Each week’s submission includes:
 - Microsoft Azure data fundamentals  
 - GDPR, DPA 2018, and data compliance  
 - Data security and cloud storage  
-- Job search and CV preparation  
 
 **Evidence:**  
 ![Week 5 Screenshot](image5.png)  
