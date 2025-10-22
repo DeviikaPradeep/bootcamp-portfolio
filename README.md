@@ -104,7 +104,8 @@ Each week’s submission includes:
 - Data visualization using **Matplotlib** and **Seaborn**  
 
 **Evidence:**  
-
+![Week 6 Screenshot](image6.png)  
+[📄 Download Week 6 Report](week6.docx)
 
 ---
 
