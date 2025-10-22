@@ -103,6 +103,12 @@ Each week’s submission includes:
 - Data manipulation using **Pandas** and **NumPy**  
 - Data visualization using **Matplotlib** and **Seaborn**  
 
+# **Learning Objectives & Activities**
+
+- **Confidently use Python and Pandas for data analysis.**  
+- **Clean and prepare real-world data for insights.**  
+- **Build and present a mini data analysis project** using datasets like `student.csv` or `GDP (nominal) per capita.csv`.
+
 **Evidence:**  
 ![Week 6 Screenshot](image6.png)  
 [📄 Download Week 6 Report](week6.docx)
