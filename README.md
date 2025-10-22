@@ -103,7 +103,7 @@ Each week’s submission includes:
 - Data manipulation using **Pandas** and **NumPy**  
 - Data visualization using **Matplotlib** and **Seaborn**  
 
-# **Learning Objectives & Activities**
+**Learning Objectives & Activities**
 
 - **Confidently use Python and Pandas for data analysis.**  
 - **Clean and prepare real-world data for insights.**  
